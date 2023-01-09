@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JamesRobinson160552
 
-I am a second-year computer science student at Acadia University interested in becoming a software engineer.
-So far, I can write programs in Python, Java, and C as well as web pages and APIs using nodeJS and MongoDb.
-I am ready to collaborate on projects!
+I am a third-year computer science student at Acadia University working towards a career in software engineering
 
 - 📫 How to reach me ...
 
