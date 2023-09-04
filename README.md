@@ -1,6 +1,8 @@
+**Rock On, Raccoon! available now on ios https://apps.apple.com/us/app/rock-on-raccoon/id6450372557 and Android https://play.google.com/store/apps/details?id=com.MassDiGI.TeamCottonCandy&hl=en_US&gl=US**
+
 - 👋 Hi, I’m @JamesRobinson160552
 
-I am a third-year computer science student at Acadia University working towards a career in software engineering
+I am a fourth-year computer science student at Acadia University working towards a career in software engineering
 
 - 📫 How to reach me ...
 
