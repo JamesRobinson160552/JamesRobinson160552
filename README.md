@@ -6,12 +6,12 @@ Bachelor of Computer Science - Acadia University class of 2024
 
 Email: jamesgrobinson3@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/james-robinson-3790b822b
+[LinkedIn](https://www.linkedin.com/in/james-robinson-3790b822b/)
 
-Portfolio Page: [jamesrobinson160552.github.io](https://jamesrobinson160552.github.io/)
+[Portfolio](https://jamesrobinson160552.github.io/)
 
 
-Rock On, Raccoon! available now on ios https://apps.apple.com/us/app/rock-on-raccoon/id6450372557 
+Rock On, Raccoon! Available now on ios https://apps.apple.com/us/app/rock-on-raccoon/id6450372557 
 
 and Android https://play.google.com/store/apps/details?id=com.MassDiGI.TeamCottonCandy&hl=en_US&gl=US
 
