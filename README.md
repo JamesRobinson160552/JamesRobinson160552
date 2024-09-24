@@ -4,7 +4,7 @@ Bachelor of Computer Science - Acadia University class of 2024
 
 **Links**
 
-Email: jamesgrobinson3@gmail.com
+jamesgrobinson3@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/james-robinson-3790b822b/)
 
