@@ -8,7 +8,7 @@ Email: jamesgrobinson3@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/james-robinson-3790b822b
 
-Portfolio Page: http://www.jamesrobinson160552.github.io
+Portfolio Page: [jamesrobinson160552.github.io](https://jamesrobinson160552.github.io/)
 
 
 Rock On, Raccoon! available now on ios https://apps.apple.com/us/app/rock-on-raccoon/id6450372557 
