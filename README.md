@@ -1,5 +1,3 @@
-Software Engineer at Hermetik Trading Technologies Inc.
-
 Bachelor of Computer Science - Acadia University class of 2024
 
 **Links**
